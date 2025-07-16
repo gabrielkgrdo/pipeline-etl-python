@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import streamlit as st
 from sqlalchemy import create_engine
-from sqlalchemy.exc import ProgrammingError
+from sqlalchemy.exc import create_engine
 from dotenv import load_dotenv
 
 # Carregar variáveis de ambiente do arquivo .env
