@@ -1,0 +1,13 @@
+date,symbol,action,quantity
+2025-07-10,CL=F,sell,40
+2025-07-11,CL=F,buy,35
+2025-07-14,CL=F,sell,30
+2025-07-15,CL=F,buy,55
+2025-07-10,CL=F,sell,45
+2025-07-11,GC=F,buy,10
+2025-07-14,GC=F,sell,5
+2025-07-15,GC=F,buy,8
+2025-07-10,GC=F,sell,12
+2025-07-11,GC=F,buy,15
+2025-07-14,SI=F,buy,18
+2025-07-15,SI=F,sell,20
