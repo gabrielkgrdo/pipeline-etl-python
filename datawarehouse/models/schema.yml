@@ -15,7 +15,7 @@ sources:
           - name: simbolo
             description: "Símbolo da commodity"
           
-      - name: movimentacao_commodities
+      - name: movimentacoes_commodities
         description: "Tabela seed"
         columns:
           - name: date

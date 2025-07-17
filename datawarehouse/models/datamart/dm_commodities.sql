@@ -37,22 +37,6 @@ joined as (
     on
         c.data = m.data
         and c.simbolo = m.simbolo
-),
-
-last_day as (
-    select
-        max(data) as max_date
-    from
-        joined
-),
-
-filtered as (
-    select
-        *
-    from
-        joined
-    where
-        data = (select max_date from last_day)
 )
 
 select
@@ -64,4 +48,6 @@ select
     valor,
     ganho
 from
-    filtered
+    joined
+order by 
+    data, simbolo
