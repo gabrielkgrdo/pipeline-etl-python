@@ -1,8 +1,5 @@
 # Projeto de Data Warehouse de Commodities
 
-Quanto sua empresa vendeu ontem?
-Se você demorar mais de 3 segundos para responder esse workshop de hoje é para você!
-
 Este projeto tem como objetivo criar um Data Warehouse (DW) para armazenar e analisar dados de commodities, utilizando uma arquitetura moderna de ETL (Extract, Transform, Load). O projeto inclui:
 
 
