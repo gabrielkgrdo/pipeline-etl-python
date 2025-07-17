@@ -8,6 +8,8 @@ Este projeto tem como objetivo criar um Data Warehouse (DW) para armazenar e ana
 3. **Models**: Define as transformações de dados usando DBT, criando tabelas de staging e de datamart.
 4. **Dashboard**: Implementado em Streamlit, exibe dados e visualizações das commodities a partir do Data Warehouse.
 
+[Link para acessar o dashboard](https://commodities-report-kg.streamlit.app/)
+
 ## Estrutura do Projeto
 
 ### 1. Extract_Load
